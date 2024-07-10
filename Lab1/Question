@@ -1,0 +1,40 @@
+Advanced Programming Lab 1
+1. Write a simple program that prints your name and ID
+2. Create a basic calculator for addition, subtraction, multiplication, and division.
+3. Create a program that finds the maximum and minimum values in an array of
+integers.
+4. Write a program that can print a “Chessboard” like below:
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+Here,
+1 represents black squares
+0 represents white squares
+5. Create a program that finds the maximum and minimum values in an array of
+integers.
+
+6. Explain this meme
+
+7. Bank Account System
+Consider a simple bank account system where you have customers and their
+bank accounts. Each customer has a name, and a unique identifier, and can have
+one or more bank accounts. Each bank account has an account number, and a
+balance, and belongs to a specific customer.
+Design a set of Java classes to model this bank account system. Your
+implementation should include the following features:
+Customer Class:
+Attributes: name, customerID, bankAccount
+Methods: getters and setters, a method to add a bank account, a method to
+display customer information, methods to deposit and withdraw money
+BankAccount Class:
+
+Attributes: accountNumber, balance
+Methods: getters and setters, a method to deposit money, a method to withdraw
+money, and a method to display account information.
+Create customer and bank-account objects.
+And only using the customer object, to deposit or withdraw money.
